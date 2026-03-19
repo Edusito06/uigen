@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "Bash(find C:/Users/eduro/.claude -name *.json)"
+    ]
+  }
+}
